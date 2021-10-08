@@ -1,0 +1,6 @@
+.welcome {
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    background-image: url(../images/bck.png);
+}
